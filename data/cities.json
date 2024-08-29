@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "id": "a359",
+      "cityName": "Ma'an",
+      "country": "Jordan",
+      "emoji": "🇯🇴",
+      "date": "2024-08-28T16:38:53.010Z",
+      "notes": "hgfjhjhgjg",
+      "position": {
+        "lat": "30.999635084834033",
+        "lng": "36.93603515625001"
+      }
+    },
+    {
+      "id": "fbc8",
+      "cityName": "Nakasongola",
+      "country": "Uganda",
+      "emoji": "🇺🇬",
+      "date": "2024-06-12T19:20:43.000Z",
+      "notes": "amazing country",
+      "position": {
+        "lat": "1.321653762298798",
+        "lng": "32.23388671875001"
+      }
+    },
+    {
+      "id": "9fc7",
+      "cityName": "Koulamoutou",
+      "country": "Gabon",
+      "emoji": "🇬🇦",
+      "date": "2024-08-28T19:23:47.453Z",
+      "notes": "amazing country!",
+      "position": {
+        "lat": "-1.096564564029564",
+        "lng": "11.645507812500002"
+      }
+    },
+    {
+      "id": "14dd",
+      "cityName": "Cairo",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2024-08-28T19:24:14.952Z",
+      "notes": "my city",
+      "position": {
+        "lat": "29.977821384998183",
+        "lng": "31.376953125000004"
+      }
+    }
+  ]
+}
